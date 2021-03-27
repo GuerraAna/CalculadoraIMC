@@ -44,4 +44,5 @@ A partir da minha dedicação e força de vontade eu tenho como ideal fazer um a
 
 
 
+
 ![Como Calcular IMC (Fórmula), Classificação, Tabela e IMC Infantil](https://i0.wp.com/www.opas.org.br/wp-content/uploads/2018/08/tabela-imc-1024x379.jpg?resize=696%2C258&ssl=1)
