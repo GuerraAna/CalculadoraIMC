@@ -29,10 +29,7 @@ A partir da minha dedicação e força de vontade eu tenho como ideal fazer um a
 
 ## Interface do app::calling:
 
-
-
-![image-20210327175339202](C:\Users\anagu\AppData\Roaming\Typora\typora-user-images\image-20210327175339202.png)
-
+![image](https://user-images.githubusercontent.com/78937585/112734754-7aff1a00-8f26-11eb-9255-aef13e88a2c2.png)
 
 
 ## Fórmula do IMC  (Índice de Massa Corporal)::tomato::memo:
