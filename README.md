@@ -28,8 +28,7 @@ A partir da minha dedicação e força de vontade eu tenho como ideal fazer um a
 
 
 ## Interface do app::calling:
-
-![image](https://user-images.githubusercontent.com/78937585/112734754-7aff1a00-8f26-11eb-9255-aef13e88a2c2.png)
+![image](https://user-images.githubusercontent.com/78937585/112734766-8ce0bd00-8f26-11eb-9f2e-7f0a235c2e5e.png)
 
 
 ## Fórmula do IMC  (Índice de Massa Corporal)::tomato::memo:
