@@ -1,4 +1,4 @@
-# Desafio Bootcamp everis Kotlin Developer :calling: :running:
+# Projeto Bootcamp everis Kotlin Developer :calling: :running:
 
 ## Introdução:
 
